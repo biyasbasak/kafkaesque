@@ -1,5 +1,3 @@
-# Milestone 4
-
 # How to use
 - open three different terminals. One for each broker 
 - run ``` go run main.go  -brokerId=1 -port=8080 -raftport=7070``` in terminal 1
